@@ -1,6 +1,7 @@
 # LabLens - AI-Based Blood Report Interpretation System
 
-![LabLens Banner](https://via.placeholder.com/1200x400?text=LabLens+Banner) 
+![LabLens Banner](<img width="1919" height="970" alt="Screenshot 2026-01-17 194935" src="https://github.com/user-attachments/assets/dc61d083-43ff-4cb5-9b88-a0031d42a31f" />
+) 
 <!-- You can replace the above image with a screenshot of your landing page later -->
 
 **LabLens** is a modern, education-focused web application designed to help non-medical users understand their blood test reports. By converting complex medical jargon and raw values into clear, human-readable explanations, LabLens empowers users to have more informed conversations with their healthcare providers.
